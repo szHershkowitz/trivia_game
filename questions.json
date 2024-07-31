@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which country has the largest population in the world?",
+        "options": ["India", "United States", "China", "Russia"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "options": ["Spanish", "Portuguese", "English", "French"],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "Vietnam"],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which country is the largest by area?",
+        "options": ["United States", "Russia", "Canada", "China"],
+        "answer": "Russia"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which African country was formerly known as Abyssinia?",
+        "options": ["Ethiopia", "Egypt", "Ghana", "Sudan"],
+        "answer": "Ethiopia"
+    },
+    {
+        "question": "What is the currency used in the United Kingdom?",
+        "options": ["Euro", "Pound Sterling", "Dollar", "Franc"],
+        "answer": "Pound Sterling"
+    },
+    {
+        "question": "Which country shares the longest border with the United States?",
+        "options": ["Mexico", "Canada", "Cuba", "Russia"],
+        "answer": "Canada"
+    },
+    {
+        "question": "What is the national animal of India?",
+        "options": ["Elephant", "Lion", "Bengal Tiger", "Peacock"],
+        "answer": "Bengal Tiger"
+    },
+    {
+        "question": "In which continent is the country of Egypt located?",
+        "options": ["Asia", "Africa", "Europe", "South America"],
+        "answer": "Africa"
+    },
+    {
+        "question": "Which country is known for inventing pizza?",
+        "options": ["Spain", "France", "Italy", "Greece"],
+        "answer": "Italy"
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Which country is the Great Wall of China located in?",
+        "options": ["Japan", "Mongolia", "China", "South Korea"],
+        "answer": "China"
+    },
+    {
+        "question": "Which European country is known for its fjords?",
+        "options": ["Sweden", "Norway", "Finland", "Denmark"],
+        "answer": "Norway"
+    },
+    {
+        "question": "Which country has the most time zones?",
+        "options": ["United States", "China", "Russia", "India"],
+        "answer": "Russia"
+    },
+    {
+        "question": "What is the official language of Egypt?",
+        "options": ["Arabic", "English", "French", "Swahili"],
+        "answer": "Arabic"
+    },
+    {
+        "question": "Which country is home to the city of Timbuktu?",
+        "options": ["Niger", "Nigeria", "Mali", "Morocco"],
+        "answer": "Mali"
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+        "answer": "Seoul"
+    },
+    {
+        "question": "Which country has the longest coastline in the world?",
+        "options": ["Australia", "Indonesia", "Canada", "Russia"],
+        "answer": "Canada"
+    },
+    {
+        "question": "Which country is known as the Emerald Isle?",
+        "options": ["Scotland", "New Zealand", "Ireland", "Iceland"],
+        "answer": "Ireland"
+    },
+    {
+        "question": "What is the national flower of Japan?",
+        "options": ["Sakura (Cherry Blossom)", "Rose", "Tulip", "Sunflower"],
+        "answer": "Sakura (Cherry Blossom)"
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "options": ["Bangkok", "Hanoi", "Phnom Penh", "Vientiane"],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "Which South American country has the longest coastline?",
+        "options": ["Argentina", "Brazil", "Chile", "Colombia"],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the capital city of Kenya?",
+        "options": ["Nairobi", "Kampala", "Dar es Salaam", "Addis Ababa"],
+        "answer": "Nairobi"
+    },
+    {
+        "question": "Which European country is known for its windmills?",
+        "options": ["Germany", "Netherlands", "Belgium", "Sweden"],
+        "answer": "Netherlands"
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "options": ["Buenos Aires", "Rio de Janeiro", "Lima", "Santiago"],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "Which country is known for its maple syrup?",
+        "options": ["United States", "Finland", "Sweden", "Canada"],
+        "answer": "Canada"
+    },
+    {
+        "question": "Which country is home to the ancient city of Petra?",
+        "options": ["Jordan", "Israel", "Egypt", "Lebanon"],
+        "answer": "Jordan"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": ["Moscow", "St. Petersburg", "Novosibirsk", "Kazan"],
+        "answer": "Moscow"
+    }
+]
